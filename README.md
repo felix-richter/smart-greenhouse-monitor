@@ -43,6 +43,3 @@ A microcontroller-based greenhouse system for monitoring environmental condition
 ## Note:
 The glass dome is no longer available at IKEA, which unfortunately makes the 3D print file obsolete and no longer useful.
 
-## 📄 License
-
-MIT License
