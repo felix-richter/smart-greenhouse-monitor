@@ -2,6 +2,10 @@
 
 A microcontroller-based greenhouse system for monitoring environmental conditions in real time using an ESP32 and an LCD display.
 
+
+## 📸 Project Overview
+
+![Setup](setup.jpg)
 ---
 
 ## ⚙️ Features
