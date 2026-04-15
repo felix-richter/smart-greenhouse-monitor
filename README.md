@@ -40,6 +40,8 @@ A microcontroller-based greenhouse system for monitoring environmental condition
 4. Open Serial Monitor (115200 baud)
 
 ---
+## Note:
+The glass dome is no longer available at IKEA, which unfortunately makes the 3D print file obsolete and no longer useful.
 
 ## 📄 License
 
